@@ -1,2 +1,5 @@
-li{float: left;padding: 1em;list-style: none;}
+/*li{float: left;padding: 1em;display:inline;}*/
+body{color: #333;background-color: #ccc;margin: 1em 10%;}
+h1{background-color: transparent;}
+li{padding: 1em;display:inline;}
 img{display: block;clear: both;}
